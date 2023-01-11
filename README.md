@@ -5,3 +5,31 @@ The objective of the game is to eat all of the HEALTHY FRUITS placed in the maze
 Levels can be chosen from the Menu screen. 
 
 Each level provides 3 lives for Pac-Man. If Pac-Man is caught by a Junk Food, he will lose a life; the game ends when all lives are lost. 
+
+## Thank You!
+Please ⭐️ this repo and share it with others
+
+### Screenshots
+Scientific / Dark |  Standard / Colored
+:------------------:|:-------------------
+
+
+### Requirements 🔧
+* Java version 8 or higher.
+* ojdbc8.jar
+* OracleXE 10g
+
+### Installation 🔌
+1. Press the **Fork** button (top right the page) to save copy of this project on your account.
+
+2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
+
+       git clone https://github.com/SuriyaaVijay/LEARN-WITH-PACMAN-JAVA-AWT-SWING.git
+3. Imported it in Intellij IDEA or any other Java IDE.
+4. Configure Oracle Database username, password and version.
+5. Create a table (create table Leaderboard (Sno int(5), Score int(4), Data varchar(25));
+6. Run the application :D
+
+### Contributing 💡
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
+If you find any issue just put it in the repository issue section, thank you.
