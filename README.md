@@ -27,7 +27,7 @@ Game Board |  Home Page
 
 2. Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/SuriyaaVijay/LEARN-WITH-PACMAN-JAVA-AWT-SWING.git
+       git clone https://github.com/SuriyaaVijay/LEARN-WITH-PACMAN-JAVA.git
 3. Imported it in Intellij IDEA or any other Java IDE.
 4. Configure Oracle Database username, password and version.
 5. Create a table [create table Leaderboard (Sno int(5), Score int(4), Data varchar(25))];
