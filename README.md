@@ -1,4 +1,5 @@
 # LEARN-WITH-PACMAN
+## Mail to : [suriyaa2002@gmail.com](mailto:suriyaa2002@gmail.com) for access to Full Project Report and Full Project Code.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
